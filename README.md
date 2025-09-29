@@ -10,6 +10,12 @@ It supports GPU acceleration (if available), slim conversation history, colored 
 
 This project was created as a personal learning exercise for exploring local language model integration, terminal REPL design, and Python scripting, as part of my journey as a software engineering student.
 
+## Demo
+
+Here's what it looks like in action:
+
+![Screenshot](assets/phi3-chat_example.png)
+
 ## Features
 
 * Simple terminal interface for chatting with a local language model
