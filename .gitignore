@@ -1,0 +1,38 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Transcripts
+transcripts/
+
+# Models
+models/*.gguf
+
+# Editor/project files
+*.swp
+*.swo
+*.swn
+
+# Ignore pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Compiled Python packages
+*.egg-info/
+dist/
+build/
