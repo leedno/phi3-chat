@@ -8,6 +8,8 @@
 `phi3-chat` is a Python-based REPL (Read-Eval-Print Loop) for interacting with a local GGUF-format Phi-3 language model.
 It supports GPU acceleration (if available), slim conversation history, colored terminal output, and transcript logging.
 
+This project was created as a personal learning exercise for exploring local language model integration, terminal REPL design, and Python scripting, as part of my journey as a software engineering student.
+
 ## Features
 
 * Simple terminal interface for chatting with a local language model
