@@ -47,6 +47,9 @@ Activate your virtual environment and run:
 python run_phi3_chat.py --model ./models/Phi-3-mini-128k-instruct.Q4_K_M.gguf
 ```
 
+**Note:** Update the hardcoded model path in `run_phi3_chat.py`.
+
+
 ### Optional Arguments
 
 * `--max-history`: Number of recent messages to keep
